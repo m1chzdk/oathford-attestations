@@ -1,2 +1,2 @@
-# sworn-attestations
-Sworn attestation payloads - public companion to the sworn registry publisher
+# oathford-attestations
+Oathford attestation payloads - public companion to the Oathford registry publisher
